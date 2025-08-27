@@ -1,6 +1,30 @@
 body {
-    background-color: #222;
-    color: #eee
-    font-family:Arial, sans-serif;
+  background-color: rgb(4, 4, 92);
+  color: #eee;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
 }
-h1 {color: lightblue;}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto;
+}
+h1 {
+  color: lightblue;
+}
+p {
+  color: lightblue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+a {
+  color: orange;
+  text-decoration: underline;
+}
+img {
+  width: 200px;
+  height: auto;
+  margin-top: 20px;
+}
